@@ -1,0 +1,90 @@
+article,
+footer {
+  margin-inline: auto;
+  text-align: left;
+  width: 800px;
+  font-family: "Signika Negative", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+figure {
+  margin-left: 0;
+}
+
+figure img {
+  border-radius: 10px;
+  width: 800px;
+}
+
+figure figcaption {
+  text-align: center;
+  color: darkgrey;
+  margin-top: 20px;
+}
+
+header img {
+  width: 150px;
+  margin: 10px auto 10px auto;
+}
+
+header div {
+  background-color: antiquewhite;
+  border-top: 2px solid #ffe3a2;
+  padding: 1.5px 0 1.5px 0;
+}
+
+header div p {
+  font-family: "Signika Negative", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: darkgreen;
+}
+
+.bold {
+  font-family: "Signika Negative", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: bold;
+  color: darkgreen;
+}
+
+.featured {
+  border-left: 2px solid orange;
+  padding-left: 20px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.featured p {
+  margin-bottom: 0;
+  color: darkorange;
+  font-weight: bold;
+}
+
+.featured a {
+  color: lightblue;
+}
+
+.ingredients h2 {
+  border-bottom: 3px solid lightseagreen;
+  padding-bottom: 20px;
+}
+
+.ingredients ul li {
+  margin: 10px;
+}
+
+.method h2 {
+  border-bottom: 3px solid lightseagreen;
+  padding-bottom: 20px;
+}
